@@ -1,2 +1,3 @@
 line1
 こっちはメインで編集
+新しい行を追加（feature　conflict)
